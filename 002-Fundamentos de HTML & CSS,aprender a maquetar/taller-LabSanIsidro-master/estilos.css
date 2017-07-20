@@ -1,0 +1,17 @@
+img{
+	background: yellow;
+	border-radius: 50%;
+	height: 200px;
+	/*margin: 10px 5px 15px 7px;*/
+	margin-top: 10px;
+	margin-right: 5px;
+	margin-bottom: 15px;
+	margin-left: 7px;
+	padding: 10px
+	width: 200px;
+
+	}
+section{
+		background: red;
+		display: flex;/*Remplaza al float*/
+}
